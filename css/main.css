@@ -3,27 +3,92 @@
 
 #container
 {
-    width: 700px;
+    width: 800px;
     margin: auto;
 }
 
 body {
-    font-family: 'Dosis', sans-serif;
+    
+font-family: 'Dosis', sans-serif;
 font-family: 'DotGothic16', sans-serif;
-font-family: 'Poller One', cursive;
-font-family: 'Wire One', sans-serif;
+font-family: 'Josefin Slab', serif;
+font-family: 'Mirza', cursive;
+
+letter-spacing: 0.5px;
+font-size: 20px;
+font-weight: 300;
+}
+
+h1 {
+    font-size: 65px;
+    letter-spacing: 20px;
+    color: rgba(97, 148, 64);
+    text-align: center;
+    
+
 }
 
 h2 {
-    font-family: 'Dosis', sans-serif;
-font-family: 'DotGothic16', sans-serif;
-font-family: 'Poller One', cursive;
-font-family: 'Wire One', sans-serif;
+font-weight: 300;
+font-size: 35px;
+letter-spacing: 1px;   
+color: rgb(97, 148, 64);
+text-transform: uppercase;
 }
 
 h3 {
-    font-family: 'Dosis', sans-serif;
-font-family: 'DotGothic16', sans-serif;
-font-family: 'Poller One', cursive;
-font-family: 'Wire One', sans-serif;
+    font-weight: 200;
+    font-size: 22px;
+    letter-spacing: 1px; 
+    text-decoration: underline;
+    
+}
+
+p {
+    color: rgba(0, 0, 0, 0.603);
+    line-height: 17px;
+}
+
+figcaption {
+    font-style: italic;
+    color: rgba(131, 107, 27, 0.719);
+    font-size: 18px;
+}
+
+.dropcap {
+    font-size: 100px;
+    font-weight: 400;
+    line-height: 70px;
+    float: left;
+    margin: 5px 10px 0px 0px;
+}
+
+.imageleft1 {
+    float: left;
+    margin-right: 100px;
+    padding: 0;
+}
+
+.imageright1 {
+    float: right;
+    margin-left: 10px;
+    padding: 0;
+}
+
+.imageleft2 {
+    float: left;
+    margin-right: 90px;
+    padding: 0;
+}
+
+.imageright2 {
+    float:right;
+   margin-left: 0px;
+    padding: 0;
+}
+
+.imageleft3 {
+    float: left;
+    margin-left: 0px;
+    padding: 0;
 }
