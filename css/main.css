@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+
+#container
+{
+    width: 700px;
+    margin: auto;
+}
+
+body {
+    font-family: 'Dosis', sans-serif;
+font-family: 'DotGothic16', sans-serif;
+font-family: 'Poller One', cursive;
+font-family: 'Wire One', sans-serif;
+}
+
+h2 {
+    font-family: 'Dosis', sans-serif;
+font-family: 'DotGothic16', sans-serif;
+font-family: 'Poller One', cursive;
+font-family: 'Wire One', sans-serif;
+}
+
+h3 {
+    font-family: 'Dosis', sans-serif;
+font-family: 'DotGothic16', sans-serif;
+font-family: 'Poller One', cursive;
+font-family: 'Wire One', sans-serif;
+}
